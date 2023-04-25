@@ -26,7 +26,7 @@ Nossa aplicação foi pensada estimular todos que tem dificuldade de colocar ess
 ## ⚙ Funcionalidades
 Nosso grupo criou um sistema para incentivar a reciclagem no dia a dia das pessoas através de terminais de autoatendimento para descartar objetos recicláveis como garrafas pet, latas, embalagens de papel, etc.
 
-O usuário será recompensado com créditos e descontos que poderão ser utilizados em espaços culturais como teatro, cinema, shows, ou ainda doados para projetos com causas ambientais,
+O usuário será recompensado com créditos e descontos que poderão ser utilizados em espaços culturais como teatro, cinema, shows, ou ainda doados para projetos com causas ambientais.
 
 <br>
 
